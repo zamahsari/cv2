@@ -28,10 +28,6 @@ p {
     line-height: 2;
 }
 
-.btn {
-
-}
-
 .intro {
     width: 40%;
     margin: auto;
@@ -110,10 +106,6 @@ Styles for Images
     bottom:300px;
     left:15%;
     position: absolute;
-}
-
-#mountain {
-    /* width: 75%; */
 }
 
 #papadanzakir {
